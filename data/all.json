@@ -2089,6 +2089,38 @@
             "readme": "",
             "keywords": ["listview", "repeater", "menu"],
             "order": 0
-        }
+        },
+	{
+		"name": "Re-designing WhatsApp using ReacNativeScript",
+		"description": "Original design by Debangsu Basu (uplabs) - https://www.uplabs.com/posts/whatsapp-redesign-a-concept.",
+		"screenshots": [
+			"https://raw.githubusercontent.com/t1amat9409/code-samples/master/screens/whatsapp-rns-1.png",
+			"https://raw.githubusercontent.com/t1amat9409/code-samples/master/screens/whatsapp-rns-2.png",
+			"https://raw.githubusercontent.com/t1amat9409/code-samples/master/screens/whatsapp-rns-3.png"
+		],
+		"links": {
+			"react":"https://play.nativescript.org/?template=play-react&id=QahdpV",
+			"angular": "",
+                	"vue": "",
+			"core":""
+		},
+		"categories": [
+			"layouts and pages"
+		],
+		"authors": [
+			{
+				"name": "Aliziwe Mahono",
+				"npmuser": "itxbornfire",
+				"framework": "react"
+			}
+		],
+		"readme": "",
+		"keywords": [
+			"whatsapp",
+			"design",
+			"re-design"
+		],
+		"order": 0
+	}
     ]
 }
